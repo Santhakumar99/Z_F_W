@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "Zero Food Waste",
+    "paragraph":"Cutting food waste is a delicious way of saving money, helping to feed the world and protect the planet. – Tristram Stuart"
+  },
+  "Introduction":{
+    "title":"Introduction",
+    "paragraph":"Food waste management in India is becoming a critical problem due to the continuous increase of the Indian population. Indians waste the maximum amount of food as much as the whole of the UK consumes – a data point which will not be most indicative of our love of surfeit, because it is of our population. Most of the food is wasted in weddings, canteens, hotels, social and family functions, and households. Still, food wastage is a horrendous issue, so is food waste management in India. Our streets, garbage bins, and landfills are spoiling our environment and have sufficient evidence to prove it."
+  },
+  "About": {
+    "paragraph": "In India, the bigger the marriage, the bigger the party, and furthermore the extra staggering the waste. Almost certainly weddings and meals are a huge inventory of food wastage, be that as it may, cafés and lodgings conjointly add to food wastage, albeit the consideration around this has developed totally mature inside the most recent 5 years. While certain eateries in India use food regulators to imagine food waste, choices give it to their representatives and other faculty, and more modest independent cafés give it to shelters. Few use durable food",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Recycle by Composting",
+      "text": "Food producers will solve 100% of their waste matter issues by merely organizing a good composting strategy. And doing therefore not solely eliminates waste, it saves you cash as a result of you don’t have to be compelled to “outsource” your compost production."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Turn Wasted Food into Animal Feed",
+      "text": "Cultivating compost is a method to recycle food, however it also can be drained of the bellies of cows, sheep, pigs, and alternative ethereal (themselves destined to become food)."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Use Waste Food to provide Products",
+      "text": "From biofuels to liquid fertilizer, there are several helpful merchandises that may be factory-made from bound styles of waste foods, and infrequently “leftovers” of one company might be helpful in another business for the food scrap."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Source Reduction and Food Donation",
+      "text": "The easiest method to curtail waste matter is to easily turn out less whenever production is clearly resulting in waste. Once excess foodstuffs are still safe to eat, there will be hungry and poor people who realize it troublesome to afford decent food in today’s dear economy."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/test11.jpg",
+      "text": "\"Throwing away food is like stealing from the table of those who are poor and hungry.\"",
+      "name": "Pope francis"
+    },
+    {
+      "img": "img/testimonials/test22.jpg",
+      "text": "\"If you can't feed a hundred people, then feed just one.\"",
+      "name": "Mother teresa"
+    },
+    {
+      "img": "img/testimonials/test3.jpg",
+      "text": "\"You waste life when you waste good food.\"",
+      "name": "Katherine Anne Porter"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Coimbatore - 20",
+    "phone": "+91 637 902 3180",
+    "email": "parameshoky49@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
